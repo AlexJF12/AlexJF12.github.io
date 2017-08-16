@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I'm Alex, an aspiring Data Scientist with a background in Global Public Health. You've come to my blog, where I post interesting snapshots of various analytical projects I've worked on. I originally coded in R, but have since switched to Python. Most of my code will be hosted in my GitHub. Feel free to contact me with any questions or comments.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[AlexJF12@gmail.com](mailto:alexjf12@gmail.com)
